@@ -1,0 +1,32 @@
+.row button{
+    background-color: rgb(188, 170, 170);
+    border: none;
+    padding: 10px 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 10px;
+    max-height: 40px;
+    max-width: 40px;
+}
+.row{
+    justify-content: center;
+}
+.row button:hover{
+    background-color: rgb(126, 159, 126);
+}
+.row input{
+    width: auto;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border: none;
+    margin: 10px;
+    max-height: 40px;
+}
+.container{
+    width: 10%;
+}
+.calculator{
+    background-color: rgb(13, 114, 114);
+    width: fit-content;
+    border-radius: 10px;
+}
